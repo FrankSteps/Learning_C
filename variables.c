@@ -7,12 +7,15 @@ int main(){
     double double_ = 10.1;
     char char_ = 'a';
     char name[] = "frank";
-    bool bool_ = true;
+    bool bool_ = false;
 
     printf("int:    %d    \n",  int_);
     printf("float:  %.1f  \n",  float_);
     printf("double: %.1lf \n",  double_);
     printf("char:   %c    \n",  char_);
     printf("hello,  %s    \n",  name);
-    printf("bool:   %d    \n",  bool_);
+    printf("bool:   %d    \n",  bool_); //bool return 1 or 0
+
+    //bool return true or false
+    printf("bool:   %s    \n", bool_ ? "true" : "false");
 }

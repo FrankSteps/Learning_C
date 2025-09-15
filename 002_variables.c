@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <stdbool.h> //bool 
+#include <stdio.h>    //input and output
+#include <stdbool.h>  //bool 
 
 int main(){
     int int_ = 10;

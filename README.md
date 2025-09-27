@@ -1,1 +1,1 @@
-linguagem c
+c

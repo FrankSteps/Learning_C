@@ -15,7 +15,7 @@ int myFunction(int n){
 }
 
 int main(){
-    int retorno = myFunction(9);
+    int retorno = myFunction(7);
     printf("%d\n", retorno);
     return 0;
 }

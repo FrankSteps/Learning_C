@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-    char name[32] = {0}; 
+    char name[32] = {}; 
 
     printf("Enter your name: ");
 

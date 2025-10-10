@@ -52,15 +52,12 @@
     <li>Atividades propostas</li> 
 </ol>
 
+
+<h2>Info:</h2>
+
 <p>
     Iniciado em: 06/10/2025 <br>
     Finaliz. em: 10/10/2025 <br>
 </p>
 
-<ol>
-    <p>
-        Iniciado em: 06/10/2025 <br>
-        Finaliz. em: 10/10/2025 <br>
-    </p>
-</ol>
 

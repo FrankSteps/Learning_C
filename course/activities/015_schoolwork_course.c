@@ -13,12 +13,12 @@ int main(){
     int vetor[10];
 
     //salvando as informações no vetor
-    for(int i = 1; i <= 10; i++){
-        vetor[i] = i;
+    for(int i = 0; i <= 9; i++){
+        vetor[i] = i+1;
     }
 
     //mostrando as informações do vetor
-    for(int i = 1; i <= 10; i++){
+    for(int i = 0; i <= 9; i++){
         printf("%d\n", vetor[i]);
     }
 

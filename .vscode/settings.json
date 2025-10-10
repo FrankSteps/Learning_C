@@ -2,6 +2,7 @@
     "files.associations": {
         "003_in.C": "cpp",
         "003_scanf.C": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "vector": "c"
     }
 }

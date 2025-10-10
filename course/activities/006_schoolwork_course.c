@@ -14,7 +14,8 @@ int main(){
     }else if(num1 < num2){
         printf("%d", num2);
     }else{
-        printf("iguais");
+        printf("iguais\n");
+        return 0;
     }
     printf(" é maior\n");
     return 0;

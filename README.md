@@ -51,3 +51,9 @@
     <li>string</li>
     <li>Atividades propostas</li> 
 </ol>
+
+<p>
+    Iniciado em: 06/10/2025 <br>
+    Finaliz. em: 10/10/2025 <br>
+</p>
+

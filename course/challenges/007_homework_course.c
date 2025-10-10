@@ -14,6 +14,5 @@
 
 int main(){
     int cnt[26] = {0};
-    
     return 0;
 }
